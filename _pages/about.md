@@ -25,8 +25,8 @@ I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor 
 ## Research Experience
 
 - **Research Intern**, MINIMAX (February 2025 – Present)
-- **Research Intern**, Tencent WXG (June 2024 – September 2024)
-- **Research Intern**, Shanghai AI Lab (June 2023 – December 2023)
+- **Research Intern**, Tencent WXG (June 2024 – September 2024), advised by Zifei Shan
+- **Research Intern**, Shanghai AI Lab (June 2023 – December 2023), advised by Prof. Yu Cheng
 
 ## Publications
 
@@ -36,6 +36,10 @@ I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024) — *ICML 2024*
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023) — *NeurIPS 2023*
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023) — *NeurIPS 2023*
+
+## Awards
+
+- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 ## Skills
 
