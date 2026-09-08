@@ -27,6 +27,10 @@ Research Experience
   * Shanghai AI Lab
   * Advisor: Prof. Yu Cheng
 
+Awards
+======
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
 Skills
 ======
 * Natural Language Processing
